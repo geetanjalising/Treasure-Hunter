@@ -1,0 +1,47 @@
+.userBd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    border: 2px solid black;
+width: fit-content;
+padding: 30px;
+border-radius: 5px;
+box-shadow: 2px 2px 2px;
+
+}
+.main{
+ 
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.main img{
+  margin-top: 130px;
+  height: 100px;
+   width: 100px;
+   
+   box-shadow: 2px 2px 2px;
+   
+}
+.userBd2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.userBd2 h1{
+ margin-bottom: 15px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.userBd2 button{
+    border-radius: 4px;
+    background-color: rgb(248, 243, 237);
+}
+
+.userBd2 button:hover{
+    background-color: antiquewhite;
+    box-shadow: 1px 1px 1px;
+}

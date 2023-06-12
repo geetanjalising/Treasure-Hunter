@@ -1,0 +1,40 @@
+.task5_body{
+  background: url(treasure.jpg);    
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+    
+ }
+ .task5_body .readme button{
+  z-index: 50;
+  position: absolute;
+  top: 60px;
+  left: 50%;
+  width: 80px;
+  height: 30px;
+  background-color: rgb(186, 186, 7);
+  box-shadow: 3px 3px 3px green;
+  font-weight: bold;
+  color: rgb(32, 32, 94);
+  border-radius: 3px;
+}
+.task5_body h4{
+  margin-top: 50px;
+  color: rgb(34, 239, 11);
+}
+.task5_body .readme button:hover{
+  background-color: rgb(248, 248, 6);
+  box-shadow: 4px 4px 4px rgb(35, 118, 42);
+}
+ .typical5{
+    color: rgb(201, 118, 95);
+    margin-top: 110px;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+  }
+  

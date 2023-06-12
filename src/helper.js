@@ -1,0 +1,1 @@
+export const BASE_URL="https://treasurehunter2.onrender.com"
